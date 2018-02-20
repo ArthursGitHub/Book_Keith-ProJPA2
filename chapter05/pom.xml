@@ -1,0 +1,28 @@
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>edu.javacourse</groupId>
+    <artifactId>chapter05</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>Chapter_05</name>
+
+    <modules>
+        <module>01-elementCollection</module>
+        <module>02-overrideCollectionTableColumn</module>
+        <module>03-oneToManyList</module>
+        <module>04-persistentlyOrderedList</module>
+        <module>05-elementCollectionStringMap</module>
+        <module>06-elementCollectionEnumMap</module>
+        <module>07-oneToManyMap</module>
+        <module>08-manyToManyMap</module>
+        <module>09-oneToManyEntityAttributeKey</module>
+        <module>10-embeddableKeyMapping</module>
+        <module>11-manyToManyEmbeddableKeyOverride</module>
+        <module>12-elementCollectionMapKeyEntity</module>
+        <module>13-untypedMaps</module>
+    </modules>
+
+</project>

@@ -1,0 +1,35 @@
+<persistence version="2.1"
+             xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence
+                                 http://xmlns.jcp.org/xml/ns/persistence_2_1.xsd">
+    <!-- This file is read by Hibernate (JPA), not by BTM -->
+
+    <persistence-unit name="chapter04PU_HibernateMySQL" transaction-type="JTA">
+        <jta-data-source>jdbc/devcolibri</jta-data-source>
+        <class>org.agoncal.book.javaee7.chapter04.Book</class>
+        <exclude-unlisted-classes>true</exclude-unlisted-classes>
+        <properties>
+            <property name="javax.persistence.schema-generation.database.action" value="create"/>
+            <property name="hibername.format_sql" value="true"/>
+            <property name="hibernate.use_sql_comments" value="true"/>
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
+            <!--<property name="hibernate.hbm2ddl.auto" value="create"/>          &lt;!&ndash; Чтобы создались таблицы замените на create &ndash;&gt;-->
+        </properties>
+    </persistence-unit>
+
+
+    <persistence-unit name="myPU" transaction-type="JTA">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <jta-data-source>jdbc/devcolibri</jta-data-source>
+        <class>org.agoncal.book.javaee7.chapter04.BlogEntry</class>
+        <exclude-unlisted-classes>false</exclude-unlisted-classes>
+        <properties>
+            <property name="hibernate.hbm2ddl.auto" value="create-drop"/>
+            <property name="hibernate.archive.autodetection" value="class"/>
+            <property name="hibernate.transaction.jta.platform" value="org.hibernate.service.jta.platform.internal.SunOneJtaPlatform"/>
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
+        </properties>
+    </persistence-unit>
+
+</persistence>
