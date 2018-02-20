@@ -1,0 +1,1 @@
+https://github.com/Apress/pro-jpa-2-in-java-ee-8
