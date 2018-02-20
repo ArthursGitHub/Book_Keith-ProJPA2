@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01-elementCollection" />
+        <module name="01-txScopedEmExample" />
+        <module name="02-extendedEmExample1" />
+        <module name="02-overrideCollectionTableColumn" />
+        <module name="03-extendedEmExample2" />
+        <module name="03-oneToManyList" />
+        <module name="04-extendedEmExample3" />
+        <module name="04-persistentlyOrderedList" />
+        <module name="05-applicationManagedSE" />
+        <module name="05-elementCollectionStringMap" />
+        <module name="06-applicationManagedEE" />
+        <module name="06-elementCollectionEnumMap" />
+        <module name="07-oneToManyMap" />
+        <module name="07-txScopedPersistenceContext" />
+        <module name="08-extendedPersistenceContext" />
+        <module name="08-manyToManyMap" />
+        <module name="09-oneToManyEntityAttributeKey" />
+        <module name="09-persistenceContextCollision" />
+        <module name="10-embeddableKeyMapping" />
+        <module name="10-persistenceContextInheritance" />
+        <module name="11-applicationManagedJTA" />
+        <module name="11-manyToManyEmbeddableKeyOverride" />
+        <module name="12-elementCollectionMapKeyEntity" />
+        <module name="12-sharingApplicationManagedJTA" />
+        <module name="13" />
+        <module name="13-unsyncPC" />
+        <module name="13-untypedMaps" />
+        <module name="14-resourceLocalTxSE" />
+        <module name="15-resourceLocalTxEE" />
+        <module name="15-userTxExample" />
+        <module name="16-persistingWithRelationships" />
+        <module name="17-persistingWithRelationshipsUsingGetReference" />
+        <module name="18-oneToOnePkMapping" />
+        <module name="18-removingWithRelationships" />
+        <module name="19-persistingWithRelationshipsCascade" />
+        <module name="20-removingWithRelationshipsCascade" />
+        <module name="21-mergingDetachedEntities" />
+        <module name="22-detachmentWithTriggeredLazyLoading" />
+        <module name="23-detachmentWithEagerLoading" />
+        <module name="24-noDetachmentSingleTx" />
+        <module name="25-noDetachmentAppManagedEm" />
+        <module name="26-noDetachmentSFSBAndExtendedEm" />
+        <module name="27-editSessionExample" />
+        <module name="28-conversationExample" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-elementCollection" target="1.8" />
+      <module name="01-txScopedEmExample" target="1.8" />
+      <module name="02-extendedEmExample1" target="1.8" />
+      <module name="02-overrideCollectionTableColumn" target="1.8" />
+      <module name="03-extendedEmExample2" target="1.8" />
+      <module name="03-oneToManyList" target="1.8" />
+      <module name="04-extendedEmExample3" target="1.8" />
+      <module name="04-persistentlyOrderedList" target="1.8" />
+      <module name="05-applicationManagedSE" target="1.8" />
+      <module name="05-elementCollectionStringMap" target="1.8" />
+      <module name="06-applicationManagedEE" target="1.8" />
+      <module name="06-elementCollectionEnumMap" target="1.8" />
+      <module name="07-oneToManyMap" target="1.8" />
+      <module name="07-txScopedPersistenceContext" target="1.8" />
+      <module name="08-extendedPersistenceContext" target="1.8" />
+      <module name="08-manyToManyMap" target="1.8" />
+      <module name="09-oneToManyEntityAttributeKey" target="1.8" />
+      <module name="09-persistenceContextCollision" target="1.8" />
+      <module name="10-embeddableKeyMapping" target="1.8" />
+      <module name="10-persistenceContextInheritance" target="1.8" />
+      <module name="11-applicationManagedJTA" target="1.8" />
+      <module name="11-manyToManyEmbeddableKeyOverride" target="1.8" />
+      <module name="12-elementCollectionMapKeyEntity" target="1.8" />
+      <module name="12-sharingApplicationManagedJTA" target="1.5" />
+      <module name="13" target="1.5" />
+      <module name="13-unsyncPC" target="1.8" />
+      <module name="13-untypedMaps" target="1.8" />
+      <module name="14-resourceLocalTxSE" target="1.8" />
+      <module name="15-resourceLocalTxEE" target="1.8" />
+      <module name="15-userTxExample" target="1.8" />
+      <module name="16-persistingWithRelationships" target="1.8" />
+      <module name="17-persistingWithRelationshipsUsingGetReference" target="1.8" />
+      <module name="18-oneToOnePkMapping" target="1.8" />
+      <module name="18-removingWithRelationships" target="1.8" />
+      <module name="19-persistingWithRelationshipsCascade" target="1.8" />
+      <module name="20-removingWithRelationshipsCascade" target="1.8" />
+      <module name="21-mergingDetachedEntities" target="1.8" />
+      <module name="22-detachmentWithTriggeredLazyLoading" target="1.8" />
+      <module name="23-detachmentWithEagerLoading" target="1.8" />
+      <module name="24-noDetachmentSingleTx" target="1.8" />
+      <module name="25-noDetachmentAppManagedEm" target="1.8" />
+      <module name="26-noDetachmentSFSBAndExtendedEm" target="1.8" />
+      <module name="27-editSessionExample" target="1.8" />
+      <module name="28-conversationExample" target="1.8" />
+      <module name="Book_Keith-ProJPA2" target="1.8" />
+      <module name="chapter03" target="1.5" />
+      <module name="chapter04" target="1.5" />
+      <module name="chapter05" target="1.5" />
+      <module name="chapter06" target="1.5" />
+      <module name="chapter2" target="1.5" />
+      <module name="chapter3" target="1.5" />
+      <module name="chapter4" target="1.5" />
+      <module name="chapter6" target="1.5" />
+      <module name="employeeService" target="1.8" />
+      <module name="examples" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

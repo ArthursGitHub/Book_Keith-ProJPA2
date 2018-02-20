@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter02/employeeService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter03/15-userTxExample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter04/18-oneToOnePkMapping" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter05/01-elementCollection" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter05/02-overrideCollectionTableColumn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter05/03-oneToManyList" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter05/04-persistentlyOrderedList" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter05/05-elementCollectionStringMap" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter05/06-elementCollectionEnumMap" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter05/07-oneToManyMap" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter05/08-manyToManyMap" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter05/09-oneToManyEntityAttributeKey" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter05/10-embeddableKeyMapping" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter05/11-manyToManyEmbeddableKeyOverride" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter05/12-elementCollectionMapKeyEntity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter05/13-untypedMaps" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/01-txScopedEmExample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/02-extendedEmExample1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/03-extendedEmExample2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/04-extendedEmExample3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/05-applicationManagedSE" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/06-applicationManagedEE" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/07-txScopedPersistenceContext" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/08-extendedPersistenceContext" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/09-persistenceContextCollision" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/10-persistenceContextInheritance" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/11-applicationManagedJTA" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/12-sharingApplicationManagedJTA" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/13" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/13-unsyncPC" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/14-resourceLocalTxSE" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/15-resourceLocalTxEE" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/16-persistingWithRelationships" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/17-persistingWithRelationshipsUsingGetReference" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/18-removingWithRelationships" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/19-persistingWithRelationshipsCascade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/20-removingWithRelationshipsCascade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/21-mergingDetachedEntities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/22-detachmentWithTriggeredLazyLoading" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/23-detachmentWithEagerLoading" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/24-noDetachmentSingleTx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/25-noDetachmentAppManagedEm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/26-noDetachmentSFSBAndExtendedEm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/27-editSessionExample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter06/28-conversationExample" charset="UTF-8" />
+  </component>
+</project>
