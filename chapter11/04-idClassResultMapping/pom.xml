@@ -9,12 +9,12 @@
         <relativePath>../../</relativePath>
     </parent>
 
-    <groupId>edu.javacourse.chapter10</groupId>
+    <groupId>edu.javacourse.chapter11</groupId>
     <artifactId>04-idClassResultMapping</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Chapter_10-04-idClassResultMapping</name>
+   <name>Chapter_11-04-idClassResultMapping</name>
 
     <dependencies>
 

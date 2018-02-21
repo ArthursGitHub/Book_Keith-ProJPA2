@@ -15,6 +15,7 @@
         <module>03-sqlResultSetMappings</module>
         <module>04-idClassResultMapping</module>
         <module>05-embeddedIdResultMapping</module>
+        <module>06-inheritanceResultMapping</module>
         <module>07-constructorResultMapping</module>
         <module>08-storedProc</module>
         <module>09-namedEntityGraphBasic</module>
