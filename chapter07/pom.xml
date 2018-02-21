@@ -1,0 +1,25 @@
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>edu.javacourse</groupId>
+    <artifactId>chapter07</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>Chapter_07</name>
+
+    <modules>
+        <module>01-dynamicQueryExample</module>
+        <module>02-namedQueryExample</module>
+        <module>03-dynamicNamedQueryExample</module>
+        <module>04-paramTypesExample</module>
+        <module>05-executingQueriesExample</module>
+        <module>06-queryResultsExample</module>
+        <module>07-queryPagingExample</module>
+        <module>08-messageBoardExample</module>
+        <module>09-bulkQueryExample</module>
+        <module>10-queryHintsExample</module>
+    </modules>
+
+</project>
