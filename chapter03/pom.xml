@@ -11,6 +11,7 @@
 
     <modules>
         <module>15-userTxExample</module>
+        <module>16-employeeService</module>
     </modules>
 
 </project>

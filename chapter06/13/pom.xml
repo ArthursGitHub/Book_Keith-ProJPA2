@@ -9,7 +9,7 @@
         <relativePath>../../</relativePath>
     </parent>-->
 
-    <groupId>edu.javacourse.chapter6</groupId>
+    <groupId>edu.javacourse.chapter06</groupId>
     <artifactId>GlassJPA</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
