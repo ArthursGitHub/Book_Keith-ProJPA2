@@ -10,7 +10,32 @@
     <name>Chapter_04</name>
 
     <modules>
+        <module>01-fieldAccess</module>
+        <module>02-propertyAccess</module>
+        <module>03-mixedAccess</module>
+        <module>04-customTableSchema</module>
+        <module>05-customColumnMapping</module>
+        <module>06-lobMapping</module>
+        <module>07-enumMapping</module>
+        <module>08-temporalMapping</module>
+        <module>09-transientMapping</module>
+        <module>10-autoIdGeneration</module>
+        <module>11-tableIdGeneration</module>
+        <module>12-sequenceIdGeneration</module>
+        <module>13-dbIdentityIdGeneration</module>
+        <module>14-manyToOne</module>
+        <module>15-joinColumn</module>
+        <module>16-oneToOneUnidirectional</module>
+        <module>17-oneToOneBidirectional</module>
         <module>18-oneToOnePkMapping</module>
+        <module>19-oneToManyBidirectional</module>
+        <module>20-oneToManyTargetEntity</module>
+        <module>21-manyToManyBidirectional</module>
+        <module>22-manyToManyJoinTable</module>
+        <module>23-oneToManyUnidirectional</module>
+        <module>24-oneToOneLazy</module>
+        <module>25-embeddedObjects</module>
+        <module>26-sharingEmbeddedObjects</module>
     </modules>
 
 </project>
