@@ -10,7 +10,7 @@
     </parent>-->
 
     <groupId>edu.javacourse.chapter06</groupId>
-    <artifactId>GlassJPA</artifactId>
+    <artifactId>13</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
@@ -39,10 +39,18 @@
             <version>4.3.0.Final</version>
         </dependency>
 
+<!--
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.18</version>
+        </dependency>
+-->
+        <!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.2.1.jre7</version>
         </dependency>
 
     </dependencies>

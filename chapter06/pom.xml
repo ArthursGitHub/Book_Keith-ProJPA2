@@ -38,6 +38,7 @@
         <module>26-noDetachmentSFSBAndExtendedEm</module>
         <module>27-editSessionExample</module>
         <module>28-conversationExample</module>
+        <module>13</module>
     </modules>
 
 </project>
