@@ -16,8 +16,7 @@ public class EmployeeTestInteractive {
 
     public static void main(String[] args) throws IOException {
         // init the EntityManager
-        EntityManagerFactory emf = 
-            Persistence.createEntityManagerFactory("EmployeeService");
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("EmployeeService_PostgreSQL");
         EntityManager em = emf.createEntityManager();
         EmployeeService service = new EmployeeService(em);
 
