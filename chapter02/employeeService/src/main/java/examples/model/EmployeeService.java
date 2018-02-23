@@ -29,7 +29,7 @@ public class EmployeeService {
     }
 
     public Employee raiseEmployeeSalary(int id, long raise) {
-        Employee emp = em.find(Employee.class, id);
+        Employee emp = findEmployee(id);
         if (emp != null) {
             emp.setSalary(emp.getSalary() + raise);
         }
